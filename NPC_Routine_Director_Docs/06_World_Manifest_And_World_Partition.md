@@ -39,7 +39,7 @@ Before packaging, run toolbar menu **→ Check Packaging Readiness** once. It is
 | Errors | Manifest without a map key; several manifests for one map |
 | Warnings | Map renamed or deleted; manifest build issues; unsaved manifests |
 
-All lines are written to the Output Log (`LogHINRD`).
+All lines are written to the Output Log.
 
 ### Missing Manifest in Game
 
